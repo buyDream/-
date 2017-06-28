@@ -20,4 +20,4 @@ TCP/IP: Transmission Control Protocol/Internet Potocol，传输控制协议和�
 
    ​
 
-马丹，还要学[预备知识]()，虽然确实都知道，但是不能聊起来，尴尬。
+马丹，还要学[预备知识](https://github.com/buyDream/netPro/blob/master/%E7%BD%91%E7%BB%9C%E5%8D%8F%E8%AE%AE%E9%A2%84%E5%A4%87%E7%9F%A5%E8%AF%86.md)，虽然确实都知道，但是不能聊起来，尴尬。
